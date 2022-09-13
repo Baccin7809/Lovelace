@@ -11,7 +11,7 @@
 - [x] Exercício 03.
 - [x] Exercício 04.
 - [x] Exercício 05.
-- [ ] Exercício 06.
+- [x] Exercício 06.
 
 <h4 align='center'>
 🚧Esse portifólio está em construição🚧
