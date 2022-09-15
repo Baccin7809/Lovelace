@@ -14,5 +14,5 @@
 - [x] Exercício 06.
 
 <h4 align='center'>
-🚧Esse portifólio está em construição🚧
+🏠essa obra esta concluida🏠
 </h4>
