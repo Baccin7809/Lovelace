@@ -1,0 +1,6 @@
+comando pra listar : git status
+comando pra adcionar alterações: git add .
+comando pra visualizar novamente: git statuscomando
+comando pra descrever repositorio: git -m "descrição"
+comando pra enviar atualizações: git push
+comando pra puxar o repositorio para a maquina: git pull
